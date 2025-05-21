@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getPosts } from "../../lib/posts";
+// Triggering redeploy
 
 export async function getStaticProps() {
   const posts = getPosts();
