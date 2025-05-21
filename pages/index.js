@@ -1,3 +1,5 @@
+// Trigger rebuild
+
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import ProjectCard from "../components/ProjectCard";
