@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "My Portfolio built with Next.js and Tailwind CSS",
   "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
     "autoprefixer": "^10.4.0",
     "framer-motion": "^10.18.0",
     "gray-matter": "^4.0.3",
