@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "title": "ECommerce App",
+      "description": "A robust eCommerce platform built with Flutter and Firebase.",
+      "details": "This project involved developing a responsive and scalable eCommerce application with features like product listing, search, and cart management. It also includes an admin panel for managing products.",
+      
+      "tags": ["Flutter", "Firebase", "Full Stack"],
+      "link": "https://autaracharya.github.io/midterm/",
+      "github": "https://github.com/yourusername/ecommerce"
+    },
+    {
+      "id": "2",
+      "title": "Inventory Management System",
+      "description": "A Node.js and PostgreSQL system for inventory management.",
+      "details": "This project enables users to efficiently manage inventory with CRUD operations, reporting, and analytics. Built using Node.js, Express, and PostgreSQL.",
+      
+      "tags": ["Node.js", "Express", "PostgreSQL"],
+      "link": "https://example.com/inventory",
+      "github": "https://github.com/yourusername/inventory"
+    },
+    {
+      "id": "flappy-bird-clone",
+      "title": "Flappy Bird Clone",
+      "description": "A fun and engaging game inspired by the classic Flappy Bird. Navigate through pipes, avoid obstacles, and achieve the highest score!",
+      "technologies": ["MonoGame", "C#", "2D Game"],
+     
+      "github": "https://github.com/autaracharya/SkyEscape.git",
+      "tags": ["Game", "MonoGame", "C#", "2D"]
+    }
+    
+  ]
+  

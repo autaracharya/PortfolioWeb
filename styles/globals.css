@@ -1,0 +1,25 @@
+/* Import Tailwind CSS layers */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Base styles */
+body {
+  @apply transition-colors duration-300 font-sans;
+}
+
+html {
+  @apply bg-gray-900 text-white;
+}
+
+html.light {
+  @apply bg-white text-gray-900;
+}
+
+html.dark {
+  @apply bg-gray-900 text-white;
+}
+.clock {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.5rem;
+}
